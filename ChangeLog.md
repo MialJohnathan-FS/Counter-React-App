@@ -73,4 +73,17 @@ Modifications:
 
 Deleted:
 - nothing
+---------------------------------------
+## New Change| Version 1.1.24| 10-11-24
+
+Created:
+- counter increments
+
+Modifications:
+- changed increment logic for counter to increase by 2 counts using setCount() method
+- added log to change log file
+
+Deleted:
+- nothing
+--------------------------------------
 
