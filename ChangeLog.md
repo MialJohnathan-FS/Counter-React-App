@@ -37,3 +37,13 @@ Modifications:
 Deleted:
 - Imported lines of code that installed with the React module install to make room for Counter component
 ---------------------------------------
+## New Change| Version 1.3.24| 10-11-24
+
+Created:
+- new styling for Virtual DOM in index.css file
+
+Modifications:
+- none
+
+Deleted:
+- deleted index.css styles 
