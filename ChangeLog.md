@@ -20,7 +20,7 @@ Created:
 - New branch called 'Dev'
 
 Modifications:
--Removed spacing in ChangeLog.md to have better data arrangement
+- Removed spacing in ChangeLog.md to have better data arrangement
 
 Deleted: 
 -Nothing
