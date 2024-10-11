@@ -9,7 +9,9 @@ function Counter () {
 
     useEffect(function() {
         var timer = setInterval(function() {
-            setCount(count+1);
+            setCount((count)=>count+1); // 1st increment
+            setCount((count)=>count+1); // 2nd increment
+
             console.log("count =", count);
         }, 1000);
 
