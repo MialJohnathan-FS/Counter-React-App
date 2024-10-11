@@ -37,7 +37,7 @@ Modifications:
 Deleted:
 - Imported lines of code that installed with the React module install to make room for Counter component
 ---------------------------------------
-## New Change| Version 1.3.24| 10-11-24
+## New Change| Version 1.4.24| 10-11-24
 
 Created:
 - new styling for Virtual DOM in index.css file
@@ -47,3 +47,16 @@ Modifications:
 
 Deleted:
 - deleted index.css styles 
+---------------------------------------
+## New Change| Version 1.5.24| 10-11-24
+
+Created:
+- a function that will increment the displayed counter, which currently remains at 0 inside Counter component
+- comments for changes masde to code
+
+
+Modifications:
+- updated change log file to relfect changes
+
+Deleted:
+- nothing
