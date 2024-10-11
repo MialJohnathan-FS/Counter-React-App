@@ -60,3 +60,17 @@ Modifications:
 
 Deleted:
 - nothing
+---------------------------------------
+## New Change| Version 1.6.24| 10-11-24
+
+Created:
+- new imports for useEffect() method and useState() react methods in Counter component
+- used clearInterval, and setInterval to start and end logic for timer
+
+Modifications:
+- wrote logic for timer
+
+
+Deleted:
+- nothing
+
