@@ -3,7 +3,8 @@ import { useState, useEffect } from "react";
 
 
 // a Counter component that displays an incrementing counter automatically every second
-function Counter () {
+function Counter(props) {
+    var init = 
     //array destructuring
     const [count, setCount] = useState(0);
 
