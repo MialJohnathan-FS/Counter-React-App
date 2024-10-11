@@ -23,7 +23,7 @@ Modifications:
 - Removed spacing in ChangeLog.md to have better data arrangement
 
 Deleted: 
--Nothing
+- Nothing
 ---------------------------------------
 ## New Change| Version 1.3.24| 10-11-24
 
@@ -31,9 +31,9 @@ Created:
 - New reusable component for a Counter function [Counter.js] in src directory
 
 Modifications:
--Inserted the component within the App.js file
--Imported Counter component to App.js from src directory
+- Inserted the component within the App.js file
+- Imported Counter component to App.js from src directory
 
 Deleted:
-- imported lines of code that installed with the React module install to make room for Counter component
+- Imported lines of code that installed with the React module install to make room for Counter component
 ---------------------------------------
