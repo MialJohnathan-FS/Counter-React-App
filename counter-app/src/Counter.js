@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 
 // a Counter component that displays an incrementing counter automatically every second
 function Counter(props) {
-    var init = 
+    var init = parseInt(props.init || 0);
     //array destructuring
     const [count, setCount] = useState(0);
 
@@ -12,8 +12,6 @@ function Counter(props) {
         var timer = setInterval(function() {
             setCount((count)=>count+1); // 1st increment
             setCount((count)=>count+1); // 2nd increment
-
-            console.log("count =", count);
         }, 1000);
 
         return function() {
